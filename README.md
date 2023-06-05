@@ -25,7 +25,7 @@ $ git clone https://github.com/Nurlis03/Chocolate-Production.git
     - Set the port for TCP/IP protocol (port 1433 is usually used).
 - configure connection string to your database:
     - Find Settings.Designer.cs which is located at `Chocolate-Production\Chocolate_production_version 2\Properties\Settings.Designer.cs`
-    - Set value of connection string [global::System.Configuration.DefaultSettingValueAttribute("Data Source=YourHost;Initial Catalog=YourDatabase;Integrated Security=True")]
+    - Set value of connection string `[global::System.Configuration.DefaultSettingValueAttribute("Data Source=YourHost;Initial Catalog=YourDatabase;Integrated Security=True")]`
     - Find App.config which is located at `Chocolate-Production\Chocolate_production_version2\App.config`
     - Set value of connection string 
     ```C#
