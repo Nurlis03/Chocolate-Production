@@ -43,6 +43,8 @@ $ git clone https://github.com/Nurlis03/Chocolate-Production.git
 5. Showing the ingredients of the selected product
 6. Issuing salaries to employees
 
+## Design of database
+![image](https://github.com/Nurlis03/Chocolate-Production/assets/99631295/c3b93d15-f2b5-408a-aa5e-974d2b46e69b)
 ## Author 
 
 **------------------------------Kimbiletov Nurlis Muratovich*-----------------------------*
